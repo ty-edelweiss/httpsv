@@ -1,0 +1,7 @@
+#pragma once
+
+#define APP_NAME "@PROJECT_NAME@"
+#define APP_VERSION "@httpsv_VERSION@"
+#define APP_VERSION_MAJOR "@httpsv_VERSION_MAJOR@"
+#define APP_VERSION_MINOR "@httpsv_VERSION_MINOR@"
+#define APP_VERSION_PATCH "@httpsv_VERSION_PATCH@"

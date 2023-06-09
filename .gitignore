@@ -44,6 +44,7 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 config.h
+config.hpp
 
 # Visual Studio Code
 .vscode/*
